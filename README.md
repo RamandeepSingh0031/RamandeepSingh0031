@@ -3,6 +3,7 @@
 
 ## 🔨 Current Projects
 🔭 MemBridge –  A digital platform to support dementia caregivers by providing evidence-based knowledge in an organized and animated format saving time and health monitoring tools to manage their wellbeing. 
+
 🔭 PagePulse – PagePulse is an AI-powered tool that analyzes website performance and environmental impact, providing actionable insights to optimize CO2 emissions, data transfer, and overall sustainability.
 
 ## 🎨 My Mindset
